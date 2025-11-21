@@ -10,6 +10,6 @@ A simple Python program to generate QR codes for URLs or text. Supports customiz
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/QR_CodeGenerator.git
+git clone https://github.com/USWAHREHMAN12/QR_CodeGenerator.git
 
 
